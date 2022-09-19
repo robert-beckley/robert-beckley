@@ -5,5 +5,7 @@
 ### Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=robert-beckley&show_icons=true&hide_title=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=robert-beckley&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,41E296,00C4EE&title_color=fff&text_color=fff)
+
 ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/400885231046885389)](https://discord.com/users/400885231046885389)
